@@ -69,13 +69,13 @@
 
 *Place your investigation screenshots here:*
 
-![Wireshark - Decoy PDF](images/wireshark-decoy.png)
+![Wireshark - Decoy PDF](Images/wireshark-decoy.png)
 *Figure 1: HTTP filter showing the decoy PDF request.*
 
-![PECmd - Timeline](images/pecmd-timeline.png)
+![PECmd - Timeline](Images/pecmd-timeline.png)
 *Figure 2: Prefetch timeline showing the malicious execution.*
 
-![SQLite - Scanned Files](images/sqlite-count.png)
+![SQLite - Scanned Files](Images/sqlite-count.png)
 *Figure 3: DB Browser showing the total file count from inventory_state.db.*
 
 ---
