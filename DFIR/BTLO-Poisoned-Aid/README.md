@@ -103,7 +103,7 @@ Below are the key evidence screenshots captured during the investigation, mapped
 
 **Figure 6: Exfiltrated Data Size**  
 *Wireshark conversation statistics confirming 13MB of data transferred from victim to attacker.*  
-![Size of Exfiltrated Data](images/size-of-exfiltrated-data.png)
+![Size of Exfiltrated Data](Images/size-of-exfiltrated-data.png)
 
 ---
 
