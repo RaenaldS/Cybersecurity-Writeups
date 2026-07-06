@@ -67,16 +67,61 @@
 
 ## 📸 Screenshots
 
-*Place your investigation screenshots here:*
+Below are the key evidence screenshots captured during the investigation, mapped to each question.
 
-![Wireshark - Decoy PDF](Images/wireshark-decoy.png)
-*Figure 1: HTTP filter showing the decoy PDF request.*
+---
 
-![PECmd - Timeline](Images/pecmd-timeline.png)
-*Figure 2: Prefetch timeline showing the malicious execution.*
+**Figure 1: Decoy PDF Download**  
+*Wireshark HTTP filter showing the attacker's server delivering the decoy document to distract the victim.*  
+![Decoy PDF](images/Decoy-pdf.png)
 
-![SQLite - Scanned Files](Images/sqlite-count.png)
-*Figure 3: DB Browser showing the total file count from inventory_state.db.*
+---
+
+**Figure 2: Execution Timeline**  
+*PECmd output revealing CMD.EXE and RUNDLL32.EXE running simultaneously at the exact moment of compromise.*  
+![Prefetch Timestamp](images/prefetch-timestamp.png)
+
+---
+
+**Figure 3: Attacker's Web Server**  
+*HTTP stream analysis exposing the web server banner: nginx/1.24.0.*  
+![Attacker Web Server](images/attacker-webserver.png)
+
+---
+
+**Figure 4: Staging Directory**  
+*The malicious staging folder disguised within legitimate Windows AppData paths to avoid detection.*  
+![Staging Directory](images/staging-directory-windows-blended.png)
+
+---
+
+**Figure 5: Malicious Module**  
+*The primary payload file (`module.pyw`) discovered inside the WindowsHelper staging directory.*  
+![Malicious Module](images/module-pyw.png)
+
+---
+
+**Figure 6: Exfiltrated Data Size**  
+*Wireshark conversation statistics confirming 13MB of data transferred from victim to attacker.*  
+![Size of Exfiltrated Data](images/size-of-exfiltrated-data.png)
+
+---
+
+**Figure 7: Exfiltration Endpoint**  
+*HTTP POST request captured in the browser debug log, pointing to `/upload_file` as the exfiltration endpoint.*  
+![Exfiltration Endpoint](images/exfiltration-endpoint-attacker.png)
+
+---
+
+**Figure 8: Stolen Email Address**  
+*Email credential extracted from Chrome's Local Extension Storage (Bitwarden extension).*  
+![Email Stolen](images/email-stolen.png)
+
+---
+
+**Figure 9: Stolen Password**  
+*Password recovered from clipboard/keystroke logs captured by the infostealer.*  
+![Password Stolen](images/password-stole.png)
 
 ---
 
