@@ -73,31 +73,31 @@ Below are the key evidence screenshots captured during the investigation, mapped
 
 **Figure 1: Decoy PDF Download**  
 *Wireshark HTTP filter showing the attacker's server delivering the decoy document to distract the victim.*  
-![Decoy PDF](images/Decoy-pdf.png)
+![Decoy PDF](Images/Decoy-pdf.png)
 
 ---
 
 **Figure 2: Execution Timeline**  
 *PECmd output revealing CMD.EXE and RUNDLL32.EXE running simultaneously at the exact moment of compromise.*  
-![Prefetch Timestamp](images/prefetch-timestamp.png)
+![Prefetch Timestamp](Images/prefetch-timestamp.png)
 
 ---
 
 **Figure 3: Attacker's Web Server**  
 *HTTP stream analysis exposing the web server banner: nginx/1.24.0.*  
-![Attacker Web Server](images/attacker-webserver.png)
+![Attacker Web Server](Images/attacker-webserver.png)
 
 ---
 
 **Figure 4: Staging Directory**  
 *The malicious staging folder disguised within legitimate Windows AppData paths to avoid detection.*  
-![Staging Directory](images/staging-directory-windows-blended.png)
+![Staging Directory](Images/staging-directory-windows-blended.png)
 
 ---
 
 **Figure 5: Malicious Module**  
 *The primary payload file (`module.pyw`) discovered inside the WindowsHelper staging directory.*  
-![Malicious Module](images/module-pyw.png)
+![Malicious Module](Images/module-pyw.png)
 
 ---
 
@@ -109,19 +109,19 @@ Below are the key evidence screenshots captured during the investigation, mapped
 
 **Figure 7: Exfiltration Endpoint**  
 *HTTP POST request captured in the browser debug log, pointing to `/upload_file` as the exfiltration endpoint.*  
-![Exfiltration Endpoint](images/exfiltration-endpoint-attacker.png)
+![Exfiltration Endpoint](Images/exfiltration-endpoint-attacker.png)
 
 ---
 
 **Figure 8: Stolen Email Address**  
 *Email credential extracted from Chrome's Local Extension Storage (Bitwarden extension).*  
-![Email Stolen](images/email-stolen.png)
+![Email Stolen](Images/email-stolen.png)
 
 ---
 
 **Figure 9: Stolen Password**  
 *Password recovered from clipboard/keystroke logs captured by the infostealer.*  
-![Password Stolen](images/password-stole.png)
+![Password Stolen](Images/password-stole.png)
 
 ---
 
