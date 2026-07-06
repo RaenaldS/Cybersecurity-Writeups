@@ -94,7 +94,7 @@
 
 - 📖 **Full Walkthrough (Medium)**: [Read Here](https://medium.com/@raenaldsyaputra57/poisoned-aid-btlo-walkthrough-496d90100cdf)
 - 🏆 **BTLO Achievement**: [View Certificate](https://blueteamlabs.online/achievement/share/161475/304)
-- 📂 **Back to Main Repository**: [../](../README.md)
+- 📂 **Back to Main Repository**: [../](../../README.md)
 
 ---
 
