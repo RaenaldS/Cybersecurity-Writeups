@@ -43,7 +43,6 @@ Every writeup contains detailed steps, tools used, screenshots, and key takeaway
 
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
 - [Medium](https://medium.com/@raenaldsyaputra57)
-- [Blue Team Labs Online Profile](https://blueteamlabs.online/achievement/share/161475/304)
 
 ---
 
