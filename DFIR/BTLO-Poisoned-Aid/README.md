@@ -91,7 +91,7 @@ Below are the key evidence screenshots captured during the investigation, mapped
 
 **Figure 4: Staging Directory**  
 *The malicious staging folder disguised within legitimate Windows AppData paths to avoid detection.*  
-![Staging Directory](Images/staging-directory-windows-blended.png)
+![Staging Directory](Images/stagging-directory-windows-blended.png)
 
 ---
 
