@@ -38,7 +38,7 @@
 | 8 | Total number of files scanned | `1138` |
 | 9 | Total size of exfiltrated data | `13 MB` |
 | 10 | Exfiltration endpoint | `/upload_file` |
-| 11 | Stolen credentials (email:password) | `00darksideofme00@gmail.com:AmT1redAlfr3d` |
+| 11 | Stolen credentials (email_password) | `00darksideofme00@gmail.com_AmT1redAlfr3d` |
 
 ---
 
