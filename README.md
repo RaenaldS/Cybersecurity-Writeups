@@ -22,23 +22,6 @@ Every writeup contains detailed steps, tools used, screenshots, and key takeaway
 
 ---
 
-## 🚧 Upcoming Labs
-
-- More BTLO, TryHackMe, and CyberDefenders labs coming soon...
-- SOC scenario walkthroughs
-- Malware reverse engineering deep dives
-
----
-
-## 🛠️ Tools Frequently Used
-
-- **Forensics**: Wireshark, PECmd, Registry Explorer, DB Browser, FTK Imager
-- **Malware Analysis**: x64dbg, IDA Free, ProcMon, Process Hacker
-- **SOC**: Splunk, Elastic, Zeek, Sysmon
-- **General**: Python, SQLite, Volatility
-
----
-
 ## 📬 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
@@ -47,5 +30,3 @@ Every writeup contains detailed steps, tools used, screenshots, and key takeaway
 ---
 
 ⭐ If you find these writeups helpful, feel free to star this repository or reach out for discussions!
-
-*Keep learning. Keep hunting.* 🚀
