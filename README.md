@@ -11,10 +11,6 @@ Every writeup contains detailed steps, tools used, screenshots, and key takeaway
 ## 📂 Repository Structure
 
 - **[DFIR](./DFIR/)** — Digital Forensics & Incident Response investigations
-- **[SOC](./SOC/)** — Security Operations, alert triage, and threat hunting
-- **[Malware-Analysis](./Malware-Analysis/)** — Static and dynamic malware analysis
-- **[Network-Forensics](./Network-Forensics/)** — Packet analysis and network investigations
-- **[OSINT](./OSINT/)** — Open-source intelligence exercises
 
 ---
 
