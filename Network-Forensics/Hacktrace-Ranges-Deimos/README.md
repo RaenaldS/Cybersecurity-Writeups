@@ -213,5 +213,3 @@ Below are the key evidence screenshots captured during the investigation, mapped
 - 📂 **Back to Main Repository**: [Cybersecurity-Writeups](../../README.md)
 
 ---
-
-*Written with 🖥️ by Renaldy Syaputra*
