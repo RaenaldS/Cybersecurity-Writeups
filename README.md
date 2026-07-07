@@ -11,6 +11,7 @@ Every writeup contains detailed steps, tools used, screenshots, and key takeaway
 ## 📂 Repository Structure
 
 - **[DFIR](./DFIR/)** — Digital Forensics & Incident Response investigations
+- **[NETWORK-FORENSICS](./Network-Forensics/)** — Network Forensics
 
 ---
 
