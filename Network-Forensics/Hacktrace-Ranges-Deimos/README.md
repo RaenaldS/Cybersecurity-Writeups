@@ -101,63 +101,63 @@ Below are the key evidence screenshots captured during the investigation, mapped
 ### Question 3: Mail Server IP Address
 *The resolved IP address of the mail server.*
 
-| Evidence | Detail |
-|----------|--------|
-| ![Mail Server IP - Evidence](Images/Q3.png) | ![Mail Server IP - Detail](Images/Q3(1).png) |
+| Evidence | 
+|----------|
+| ![Mail Server IP - Evidence](Images/Q3.png) | 
 
 ---
 
 ### Question 4: Malicious URL Access
 *HTTP request to the gate.php URL after mail server connection.*
 
-| Evidence | Detail |
-|----------|--------|
-| ![Malicious URL - Evidence](Images/Q4.png) | ![Malicious URL - Detail](Images/Q4(1).png) |
+| Evidence |
+|----------|
+| ![Malicious URL - Evidence](Images/Q4.png) |
 
 ---
 
 ### Question 5: TCP Flags
 *TCP flags section showing 0x018 (SYN/ACK).*
 
-| Evidence | Detail |
-|----------|--------|
-| ![TCP Flags - Evidence](Images/Q5.png) | ![TCP Flags - Detail](Images/Q5(1).png) |
+| Evidence | 
+|----------|
+| ![TCP Flags - Evidence](Images/Q5.png) | 
 
 ---
 
 ### Question 6: C2 Domain Lookup
 *Domain lookup for clients.duncanwisniewski.com.*
 
-| Evidence | Detail |
-|----------|--------|
-| ![C2 Domain - Evidence](Images/Q6.png) | ![C2 Domain - Detail](Images/Q6(1).png) |
+| Evidence |
+|----------|
+| ![C2 Domain - Evidence](Images/Q6.png) |
 
 ---
 
 ### Question 7: C2 IP Address
 *Resolved IP address for the C2 domain.*
 
-| Evidence | Detail |
-|----------|--------|
-| ![C2 IP - Evidence](Images/Q7.png) | ![C2 IP - Detail](Images/Q7(1).png) |
+| Evidence | 
+|----------|
+| ![C2 IP - Evidence](Images/Q7.png) | 
 
 ---
 
 ### Question 8: Malware File Request
 *HTTP request for vHn3xjt.exe.*
 
-| Evidence | Detail |
-|----------|--------|
-| ![Malware File Request - Evidence](Images/Q8.png) | ![Malware File Request - Detail](Images/Q8(1).png) |
+| Evidence | 
+|----------|
+| ![Malware File Request - Evidence](Images/Q8.png) | 
 
 ---
 
 ### Question 9: Dropped PE File Location
 *Any.run analysis showing dropped files landing in %APPDATA%.*
 
-| Evidence | Detail |
-|----------|--------|
-| ![AppData Location - Evidence](Images/Q9.png) | ![AppData Location - Detail](Images/Q9(1).png) |
+| Evidence |
+|----------|
+| ![AppData Location - Evidence](Images/Q9.png) |
 
 ---
 
@@ -173,27 +173,27 @@ Below are the key evidence screenshots captured during the investigation, mapped
 ### Question 11: Ssdeep Hash
 *VirusTotal Details tab showing the Ssdeep hash.*
 
-| Evidence | Detail |
-|----------|--------|
-| ![Ssdeep Hash - Evidence](Images/Q11.png) | ![Ssdeep Hash - Detail](Images/Q11(1).png) |
+| Evidence | 
+|----------|
+| ![Ssdeep Hash - Evidence](Images/Q11.png) |
 
 ---
 
 ### Question 12: Microsoft Detection Name
 *VirusTotal detection tab showing PWS:Win32/Zbot!GO.*
 
-| Evidence | Detail |
-|----------|--------|
-| ![Microsoft Detection - Evidence](Images/Q12.png) | ![Microsoft Detection - Detail](Images/Q12(1).png) |
+| Evidence |
+|----------|
+| ![Microsoft Detection - Evidence](Images/Q12.png) |
 
 ---
 
 ### Question 13: Registry Persistence
 *MITRE ATT&CK reference for T1547.001 persistence key.*
 
-| Evidence | Detail |
-|----------|--------|
-| ![Registry Persistence - Evidence](Images/Q13.png) | ![Registry Persistence - Detail](Images/Q13(1).png) |
+| Evidence |
+|----------|
+| ![Registry Persistence - Evidence](Images/Q13.png) | 
 
 ---
 
