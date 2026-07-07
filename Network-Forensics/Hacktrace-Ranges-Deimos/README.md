@@ -209,7 +209,7 @@ Below are the key evidence screenshots captured during the investigation, mapped
 
 ## 🔗 External Links
 
-- 📖 **Full Walkthrough (Medium)**: [Read Here](https://medium.com/@raenaldsyaputra57/deimos-hacktrace-ranges-walkthrough) *(Update the slug after publishing)*
+- 📖 **Full Walkthrough (Medium)**: [Read Here]([https://medium.com/@raenaldsyaputra57/deimos-hacktrace-ranges-walkthrough](https://medium.com/@raenaldsyaputra57/deimos-hacktrace-ranges-walkthrough-04ff1ca9260a)) 
 - 📂 **Back to Main Repository**: [Cybersecurity-Writeups](../../README.md)
 
 ---
