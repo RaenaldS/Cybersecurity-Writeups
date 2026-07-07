@@ -19,6 +19,7 @@ Every writeup contains detailed steps, tools used, screenshots, and key takeaway
 | # | Category | Lab Name | Platform | Status | Writeup |
 |---|----------|----------|----------|--------|---------|
 | 1 | DFIR | **Poisoned Aid** | BTLO | ✅ Completed | [View](DFIR/BTLO-Poisoned-Aid/README.md) |
+| 2 | NETWORK-FORENSICS | **Deimos** | Hacktrace-Ranges | ✅ Completed | [View](Network-Forensics/Hacktrace-Ranges-Deimos/README.md) |
 
 ---
 
