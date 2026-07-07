@@ -92,9 +92,9 @@ Below are the key evidence screenshots captured during the investigation, mapped
 ### Question 2: Mail Server Domain
 *DNS response showing the mail server domain.*
 
-| Evidence | Detail |
-|----------|--------|
-| ![Mail Server Domain - Evidence](Images/Q2.png) | ![Mail Server Domain - Detail](Images/Q2(1).png) |
+| Evidence |
+|----------|
+| ![Mail Server Domain - Evidence](Images/Q2.png) |
 
 ---
 
