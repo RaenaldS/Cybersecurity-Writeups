@@ -80,7 +80,7 @@ Below are the key evidence screenshots captured during the investigation, mapped
 
 | Evidence | Detail |
 |----------|--------|
-| ![Q2](Images/2.png) | *Filtered log showing `Accepted` entry for sophia* |
+| ![Q2](Images/q2.jpg) | *Filtered log showing `Accepted` entry for sophia* |
 
 ---
 
@@ -89,7 +89,7 @@ Below are the key evidence screenshots captured during the investigation, mapped
 
 | Evidence | Detail |
 |----------|--------|
-| ![Q2](Images/2.png) | *2 login attempts detected* |
+| ![Q2](Images/q2.jpg) | *2 login attempts detected* |
 
 ---
 
