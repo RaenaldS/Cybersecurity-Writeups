@@ -135,7 +135,3 @@ Below are the key evidence screenshots captured during the investigation, mapped
 - 📖 **Full Walkthrough (Medium)**: [Read Here](https://medium.com/@raenaldsyaputra57/secure-shell-btlo-walkthrough-71c7ee36f94b)
 - 🏆 **BTLO Achievement**: [Look Here](https://blueteamlabs.online/achievement/share/challenge/161475/17)
 - 📂 **Back to Main Repository**: [Cybersecurity-Writeups](../../README.md)
-
----
-
-*Written with 🖥️ by Renaldy Syaputra*
