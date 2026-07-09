@@ -71,7 +71,7 @@ Below are the key evidence screenshots captured during the investigation, mapped
 
 | Evidence | Detail |
 |----------|--------|
-| ![Q1](Images/1.png) | *External attack from `192.168.1.17`* |
+| ![Q1](Images/q1.png) | *External attack from `192.168.1.17`* |
 
 ---
 
@@ -98,7 +98,7 @@ Below are the key evidence screenshots captured during the investigation, mapped
 
 | Evidence | Detail |
 |----------|--------|
-| ![Q4](Images/4.png) | *Timestamp: 2021-04-29 23:52:25.989* |
+| ![Q4](Images/q4.png) | *Timestamp: 2021-04-29 23:52:25.989* |
 
 ---
 
