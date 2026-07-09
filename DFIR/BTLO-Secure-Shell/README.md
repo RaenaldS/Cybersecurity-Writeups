@@ -1,7 +1,7 @@
 # 🕵️‍♂️ BTLO: Secure Shell - Log Analysis
 
 **Platform**: Blue Team Labs Online (BTLO)  
-**Category**: Log Analysis / SOC  
+**Category**: Log Analysis / SOC  / DFIR
 **Status**: ✅ Completed
 
 ---
