@@ -125,7 +125,3 @@ Below are the key evidence screenshots from each question.
 
 - 📖 **Full Walkthrough (Medium)**: [Read Here](https://medium.com/@raenaldsyaputra57/stegozint-hacktrace-ranges-walkthrough-45fa2c34c922)
 - 📂 **Back to Main Repository**: [Cybersecurity-Writeups](../../README.md)
-
----
-
-*Written with 🖥️ by Renaldy Syaputra*
