@@ -27,7 +27,7 @@ Every writeup contains detailed steps, tools used, screenshots, and key takeaway
 
 ## 📬 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/raenald-syaputra-1b15b61a4/)
 - [Medium](https://medium.com/@raenaldsyaputra57)
 
 ---
