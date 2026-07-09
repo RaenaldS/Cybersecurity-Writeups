@@ -98,7 +98,7 @@ Below are the key evidence screenshots captured during the investigation, mapped
 
 | Evidence | Detail |
 |----------|--------|
-| ![Q4](Images/4.png) | *Timestamp: 2021-04-29 23:52:25.989* |
+| ![Q4](DFIR/BTLO-Secure-Shell/Images/q4.png) | *Timestamp: 2021-04-29 23:52:25.989* |
 
 ---
 
