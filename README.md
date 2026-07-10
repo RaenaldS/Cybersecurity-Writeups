@@ -13,6 +13,8 @@ Every writeup contains detailed steps, tools used, screenshots, and key takeaway
 - **[DFIR](./DFIR/)** — Digital Forensics & Incident Response investigations
 - **[NETWORK-FORENSICS](./Network-Forensics/)** — Network Forensics
 - **[OSINT](./OSINT/)** — OSINT
+- **[MALWARE-ANALYSIS](./Malware-Analysis/)** — Malware-Analysis
+
 
 ---
 
@@ -24,6 +26,7 @@ Every writeup contains detailed steps, tools used, screenshots, and key takeaway
 | 2 | NETWORK-FORENSICS | **Deimos** | Hacktrace-Ranges | ✅ Completed | [View](Network-Forensics/Hacktrace-Ranges-Deimos/README.md) |
 | 3 | DFIR | **Secure-Shell** | BTLO | ✅ Completed | [View](DFIR/BTLO-Secure-Shell/README.md) |
 | 4 | OSINT | **StegOzint!** | Hacktrace-Ranges | ✅ Completed | [View](OSINT/Hacktrace-Ranges-StegOzint/README.md) |
+| 4 | MALWARE-ANALYSIS | **BluuShell** | Hacktrace-Ranges | ✅ Completed | [View](Malware-Analysis/Hacktrace-Ranges-BluuShell/README.md) |
 
 ---
 
