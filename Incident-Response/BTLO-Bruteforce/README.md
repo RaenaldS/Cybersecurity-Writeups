@@ -111,10 +111,10 @@ Below are the key evidence screenshots captured during the investigation.
 
 ### Question 7: Source Port Range
 *Evidence 1: Filtered source ports sorted numerically.*  
-![Q7-1](Images/question-7-1.png)
+![Q7-1](Images/question-7{1}.png)
 
 *Evidence 2: Port range confirmation.*  
-![Q7-2](Images/question-7-2.png)
+![Q7-2](Images/question-7{2}.png)
 
 ---
 
