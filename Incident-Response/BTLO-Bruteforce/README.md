@@ -132,7 +132,3 @@ Below are the key evidence screenshots captured during the investigation.
 
 - 📖 **Full Walkthrough (Medium)**: [Read Here](https://medium.com/@raenaldsyaputra57/bruteforce-btlo-walkthrough-1868e66f0c18) 
 - 📂 **Back to Main Repository**: [Cybersecurity-Writeups](../../README.md)
-
----
-
-*Written with 🖥️ by Renaldy Syaputra*
