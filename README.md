@@ -14,6 +14,8 @@ Every writeup contains detailed steps, tools used, screenshots, and key takeaway
 - **[NETWORK-FORENSICS](./Network-Forensics/)** — Network Forensics
 - **[OSINT](./OSINT/)** — OSINT
 - **[MALWARE-ANALYSIS](./Malware-Analysis/)** — Malware-Analysis
+- **[INCIDENT-RESPONSE](./Incident-Response/)** — Incident-Response
+- **[REVERSE-ENGINEERING](./Reverse-Engineering/)** — Reverse-Engineering
 
 
 ---
@@ -27,6 +29,8 @@ Every writeup contains detailed steps, tools used, screenshots, and key takeaway
 | 3 | DFIR | **Secure-Shell** | BTLO | ✅ Completed | [View](DFIR/BTLO-Secure-Shell/README.md) |
 | 4 | OSINT | **StegOzint!** | Hacktrace-Ranges | ✅ Completed | [View](OSINT/Hacktrace-Ranges-StegOzint/README.md) |
 | 5 | MALWARE-ANALYSIS | **BluuShell** | Hacktrace-Ranges | ✅ Completed | [View](Malware-Analysis/Hacktrace-Ranges-BluuShell/README.md) |
+| 6 | INCIDENT-RESPONSE | **Bruteforce** | BTLO | ✅ Completed | [View](Incident-Response/BTLO-Bruteforce/README.md) |
+| 7 | REVERSE-ENGINEERING | **Source** | BTLO | ✅ Completed | [View](Reverse-Engineering/BTLO-Source/README.md) |
 
 ---
 
