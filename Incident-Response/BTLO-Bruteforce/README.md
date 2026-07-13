@@ -80,41 +80,41 @@ Below are the key evidence screenshots captured during the investigation.
 ---
 
 ### Question 1: Audit Failure Events
-![Q1](Images/question-1.png)
+![Q1](Images/Question-1.png)
 
 ---
 
 ### Question 2: Targeted Username
-![Q2](Images/question-2.png)
+![Q2](Images/Question-2.png)
 
 ---
 
 ### Question 3: Failure Reason
-![Q3](Images/question-3.png)
+![Q3](Images/Question-3.png)
 
 ---
 
 ### Question 4: Event ID
-![Q4](Images/question-4.png)
+![Q4](Images/Question-4.png)
 
 ---
 
 ### Question 5: Source IP Address
-![Q5](Images/question-5.png)
+![Q5](Images/Question-5.png)
 
 ---
 
 ### Question 6: Country of Origin
-![Q6](Images/question-6.png)
+![Q6](Images/Question-6.png)
 
 ---
 
 ### Question 7: Source Port Range
 *Evidence 1: Filtered source ports sorted numerically.*  
-![Q7-1](Images/question-7{1}.png)
+![Q7-1](Images/Question-7{1}.png)
 
 *Evidence 2: Port range confirmation.*  
-![Q7-2](Images/question-7{2}.png)
+![Q7-2](Images/Question-7{2}.png)
 
 ---
 
