@@ -31,6 +31,7 @@ Every writeup contains detailed steps, tools used, screenshots, and key takeaway
 | 5 | MALWARE-ANALYSIS | **BluuShell** | Hacktrace-Ranges | ✅ Completed | [View](Malware-Analysis/Hacktrace-Ranges-BluuShell/README.md) |
 | 6 | INCIDENT-RESPONSE | **Bruteforce** | BTLO | ✅ Completed | [View](Incident-Response/BTLO-Bruteforce/README.md) |
 | 7 | REVERSE-ENGINEERING | **Source** | BTLO | ✅ Completed | [View](Reverse-Engineering/BTLO-Source/README.md) |
+| 8 | DFIR | **Veriarty** | BTLO | ✅ Completed | [View](DFIR/BTLO-Veriarty/README.md) |
 
 ---
 
