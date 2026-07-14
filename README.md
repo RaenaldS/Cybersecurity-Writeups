@@ -33,6 +33,7 @@ Every writeup contains detailed steps, tools used, screenshots, and key takeaway
 | 7 | REVERSE-ENGINEERING | **Source** | BTLO | ✅ Completed | [View](Reverse-Engineering/BTLO-Source/README.md) |
 | 8 | DFIR | **Veriarty** | BTLO | ✅ Completed | [View](DFIR/BTLO-Veriarty/README.md) |
 | 9 | CTF | **Squid Game** | BTLO | ✅ Completed | [View](CTF/BTLO-Squid-Game/README.md) |
+| 10 | INCIDENT-RESPONSE | **Paranoid** | BTLO | ✅ Completed | [View](Incident-Response/BTLO-Paranoid/README.md) |
 
 ---
 
