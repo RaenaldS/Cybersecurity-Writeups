@@ -16,8 +16,7 @@ Every writeup contains detailed steps, tools used, screenshots, and key takeaway
 - **[MALWARE-ANALYSIS](./Malware-Analysis/)** — Malware-Analysis
 - **[INCIDENT-RESPONSE](./Incident-Response/)** — Incident-Response
 - **[REVERSE-ENGINEERING](./Reverse-Engineering/)** — Reverse-Engineering
-- **[CTF](./CTF/)** — Reverse-Engineering
-
+- **[CTF](./CTF/)** — Capture-The-Flag
 
 ---
 
