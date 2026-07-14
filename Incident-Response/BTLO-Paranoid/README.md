@@ -127,6 +127,3 @@ Below are the key evidence screenshots captured during the investigation.
 - 📖 **Full Walkthrough (Medium)**: -
 - 📂 **Back to Main Repository**: [Cybersecurity-Writeups](../../README.md)
 
----
-
-*Written with 🖥️ by Renaldy Syaputra*
