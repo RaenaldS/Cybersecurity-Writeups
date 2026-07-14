@@ -16,6 +16,7 @@ Every writeup contains detailed steps, tools used, screenshots, and key takeaway
 - **[MALWARE-ANALYSIS](./Malware-Analysis/)** — Malware-Analysis
 - **[INCIDENT-RESPONSE](./Incident-Response/)** — Incident-Response
 - **[REVERSE-ENGINEERING](./Reverse-Engineering/)** — Reverse-Engineering
+- **[CTF](./CTF/)** — Reverse-Engineering
 
 
 ---
@@ -32,6 +33,7 @@ Every writeup contains detailed steps, tools used, screenshots, and key takeaway
 | 6 | INCIDENT-RESPONSE | **Bruteforce** | BTLO | ✅ Completed | [View](Incident-Response/BTLO-Bruteforce/README.md) |
 | 7 | REVERSE-ENGINEERING | **Source** | BTLO | ✅ Completed | [View](Reverse-Engineering/BTLO-Source/README.md) |
 | 8 | DFIR | **Veriarty** | BTLO | ✅ Completed | [View](DFIR/BTLO-Veriarty/README.md) |
+| 9 | CTF | **Squid Game** | BTLO | ✅ Completed | [View](CTF/BTLO-Squid-Game/README.md) |
 
 ---
 
