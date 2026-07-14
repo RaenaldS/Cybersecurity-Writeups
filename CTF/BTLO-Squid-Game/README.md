@@ -102,6 +102,3 @@ Below are the key evidence screenshots captured during the investigation.
 - 📖 **Full Walkthrough (Medium)**: [Read Here](https://medium.com/@raenaldsyaputra57/squid-game-btlo-walkthrough-2f6a7ce9dd5f)
 - 📂 **Back to Main Repository**: [Cybersecurity-Writeups](../../README.md)
 
----
-
-*Written with 🖥️ by Renaldy Syaputra*
