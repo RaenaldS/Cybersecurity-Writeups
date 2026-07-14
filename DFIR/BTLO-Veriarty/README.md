@@ -88,10 +88,10 @@ Below are the key evidence screenshots captured during the investigation.
 
 ### Question 4: Meeting Location
 *Evidence 1: Location confirmation.*  
-![Q4-1](Images/question-4-1.jpg)
+![Q4-1](Images/question-4{1}.jpg)
 
 *Evidence 2: Location details.*  
-![Q4-2](Images/question-4-2.jpg)
+![Q4-2](Images/question-4{2}.jpg)
 
 ---
 
