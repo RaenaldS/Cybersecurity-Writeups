@@ -26,10 +26,10 @@
 
 | # | Question | Answer |
 |---|----------|--------|
-| 1 | Phone number on the invitation card | `010-7157-3236` |
-| 2 | Extracted file name | `dalgona.png` |
-| 3 | Hidden text discovered | `red light` |
-| 4 | Final flag | `CTF{D0nT_5top_th3_5qu1dGam3S}` |
+| 1 | Phone number on the invitation card | `86504006` |
+| 2 | Extracted file name | `Dalgona.png` |
+| 3 | Hidden text discovered | `Red Pixel` |
+| 4 | Final flag | `SBT{S4v3_My4nm4r_Guy5}` |
 
 ---
 
@@ -37,18 +37,18 @@
 
 ### 1. Phone Number Discovery
 - Performed a Google search for "Squid Game invitation card phone number."
-- Found the phone number: `010-7157-3236`.
+- Found the phone number: `86504006`.
 
 ### 2. Extracting Hidden Content
 - Extracted the provided ZIP file to find `Invitation-Card.jpg`.
 - Noticed the file size was unusually large—a clear indicator of hidden content.
 - Used **steghide** with the phone number as the passphrase to extract the hidden file.
-- Extracted file: `dalgona.png`.
+- Extracted file: `Dalgona.png`.
 
 ### 3. Revealing Hidden Text
-- The `dalgona.png` image contained hidden text not visible normally.
+- The `Dalgona.png` image contained hidden text not visible normally.
 - Used **stegsolve.jar** to manipulate image colors and reveal the hidden text.
-- Discovered the text: `red light`.
+- Discovered the text: `Red Pixel`.
 
 ### 4. Final Flag Extraction
 - Examined the Dalgona image carefully and noticed a vertical line next to the island.
@@ -57,7 +57,7 @@
   2. Set the format to `$r, $g, $b`.
   3. Clicked on the vertical line from top to bottom.
   4. Extracted the `$r` values and decoded the message.
-- Revealed the final flag: `CTF{D0nT_5top_th3_5qu1dGam3S}`.
+- Revealed the final flag: `SBT{S4v3_My4nm4r_Guy5}`.
 
 ---
 
